@@ -53,7 +53,7 @@ nav ul li {
 #cougar {
   background: #FFD5AE;
   display: flex;
-  flex-basis: 100%
+  flex-basis: 100%;
   flex-direction: row;
 
 
@@ -62,7 +62,7 @@ nav ul li {
 #lion {
   background: #FFBD82;
   display: flex;
-  flex-basis: 100%
+  flex-basis: 100%;
     flex-direction: row;
 
 
@@ -70,7 +70,7 @@ nav ul li {
 #tiger {
   background: #B26219;
   display: flex;
-  flex-basis: 100%
+  flex-basis: 100%;
     flex-direction: row;
 
 
